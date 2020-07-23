@@ -1,5 +1,5 @@
 # Blackjack
-A card game involving 2 players that compete ag: the user player and a dealer. The user and dealer compete against each other by drawing cards to try to reach the highest sum of numerical card values and not exceed a sum of 21.
+A card game involving 2 players that compete against each other: the user and a dealer. The user and dealer draw cards to try to reach the highest sum of the cards' numerical values and not exceed a sum of 21.
 
 ## Login Screen
 <img src="https://github.com/hanedward/Blackjack/blob/master/Blackjack%20Screenshots/Login%20Screen.png" width="600" height="375"/><br><br>
