@@ -11,7 +11,7 @@ A card game involving 2 players that compete against each other: the user and a 
 1. Download/Clone project repository to your local desktop
 2. Open Eclipse IDE and import project into your workspace<br><br>
   
-### Set up JRE, and JavaFX
+### Set up JRE and JavaFX
 1. Add a new JRE (Eclipse > Preferences > Java > Installed JREs > Add) and set the JDK 11.0.2 folder as the JRE Home Directory:
    
    <b>../jdk-11.0.2.jdk/Contents/Home</b>
