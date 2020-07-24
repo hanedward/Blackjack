@@ -14,7 +14,7 @@ A card game involving 2 players that compete against each other: the user and a 
 ### Set up JRE and JavaFX
 1. Add a new JRE (Eclipse > Preferences > Java > Installed JREs > Add) and set the JDK 11.0.2 folder as the JRE Home Directory:
    
-   <b>../jdk-11.0.2.jdk/Contents/Home</b>
+   <b>.../jdk-11.0.2.jdk/Contents/Home</b>
    
 2. Add external JARS from JavaFX 11 folder 
 3. Attach the source attachment for each JavaFX jar file: <b>src.zip</b>, located in the JavaFX 11 "<b>lib</b>" folder (Source Attachment > External Location > External File)
@@ -25,7 +25,7 @@ A card game involving 2 players that compete against each other: the user and a 
 1. Navigate to Arguments Window (Run > Run Configurations > Arguments)
 2. Add modules: 
    
-   <i>--module-path ../javafx-sdk-11.0.2/lib --add-modules
+   <i>--module-path .../javafx-sdk-11.0.2/lib --add-modules
    javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web</i><br><br>
 
 ### Run Project
