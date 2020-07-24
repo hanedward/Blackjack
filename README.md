@@ -19,14 +19,14 @@ A card game involving 2 players that compete against each other: the user and a 
 2. Add external JARS from JavaFX 11 folder 
 3. Attach the source attachment for each JavaFX jar file: <b>src.zip</b>, located in the JavaFX 11 "<b>lib</b>" folder (Source Attachment > External Location > External File)
 4. Attach the Java Doc for each JavaFX jar file: https://openjfx.io/javadoc/11/
-5. Configure project's build path (Right click project > Build Path > Configure Build Path > Libraries > Add Library > JRE System Library > Alternate JRE > JRE added in step 1)
+5. Configure project's build path (Right click project > Build Path > Configure Build Path > Libraries > Add Library > JRE System Library > Alternate JRE > JRE added in step 1)<br><br>
 
 ### Add Modules as VM Arguments
 1. Navigate to Arguments Window (Run > Run Configurations > Arguments)
 2. Add modules: 
    
    <i>--module-path ../javafx-sdk-11.0.2/lib --add-modules
-   javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web</i>
+   javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web</i><br><br>
 
 ### Run Project
 1. Open and run GameController.java
